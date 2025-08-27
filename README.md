@@ -92,7 +92,7 @@ cd TurboTypist
 - Press F5 (Run).<br>
 - Signup with a new user, then log in to start playing.
 
-  ---
+---
 
 # Contact
 
