@@ -74,6 +74,9 @@ TurboTypist/
 git clone https://github.com/your-username/TurboTypist.git
 cd TurboTypist
 ```
+- Put all file in one folder same name as project name<br>
+- And open .sln file
+
 ### 3️⃣ Configure Database
 
 - Open SQL Server Object Explorer in Visual Studio.<br>
